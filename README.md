@@ -34,6 +34,18 @@ make restart
 
 ## Resources
 
+Jenkinsfile guide
+
 - https://www.jenkins.io/doc/book/pipeline/jenkinsfile/
-- https://www.jenkins.io/doc/book/pipeline/syntax/#options
+
+Pipeline Syntax
+
+- https://www.jenkins.io/doc/book/pipeline/syntax/
+
+NodeJS plugin
+
 - https://plugins.jenkins.io/nodejs/
+
+Pipeline Best Practices
+
+- https://www.jenkins.io/doc/book/pipeline/pipeline-best-practices/
