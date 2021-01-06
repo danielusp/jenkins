@@ -25,3 +25,15 @@ After install, just run
 ```bash
 make run
 ```
+
+## Restart
+
+```bash
+make restart
+```
+
+## Resources
+
+- https://www.jenkins.io/doc/book/pipeline/jenkinsfile/
+- https://www.jenkins.io/doc/book/pipeline/syntax/#options
+- https://plugins.jenkins.io/nodejs/

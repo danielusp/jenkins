@@ -6,3 +6,5 @@ RUN apt-get update && \
 apt-get -y install python3-pip
 
 USER jenkins
+
+RUN git config --global http.sslVerify false
