@@ -29,4 +29,4 @@ stop:
 restart: stop run
 
 sh:
-	docker exec -it jenkins-dev sh
+	docker exec -it jenkins-dev /bin/bash
